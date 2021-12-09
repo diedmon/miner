@@ -1,146 +1,150 @@
 ﻿{
-  "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
-    "POWER_LIMIT": 130,
-    "MEMORY_OFFSET": 2600,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
+  "rig01": {
+    "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
+      "POWER_LIMIT": 130,
+      "MEMORY_OFFSET": 2600,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-9fff745b-5f8a-fb71-0a0f-ab5b30537cac": {
+      "POWER_LIMIT": 130,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.5
+    },
+    "GPU-6cb7bae6-8148-6cbd-7022-c8fd9c18d186": {
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-080e673a-75bb-505a-6b31-0202503430e5": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-23bbc6fe-11c0-c58d-c591-330a34fe7269": {
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-773b890f-91a0-bb45-e150-7cf4976d030a": {
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-89813676-36ab-4808-5b93-5ee2f09d86e0": {
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    }
   },
-  "GPU-9fff745b-5f8a-fb71-0a0f-ab5b30537cac": {
-    "POWER_LIMIT": 130,
-    "MEMORY_OFFSET": 2400,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 74.5
-  },
-  "GPU-6cb7bae6-8148-6cbd-7022-c8fd9c18d186": {
-    "POWER_LIMIT": 140,
-    "MEMORY_OFFSET": 2800,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-080e673a-75bb-505a-6b31-0202503430e5": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-23bbc6fe-11c0-c58d-c591-330a34fe7269": {
-    "POWER_LIMIT": 140,
-    "MEMORY_OFFSET": 2800,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-773b890f-91a0-bb45-e150-7cf4976d030a": {
-    "POWER_LIMIT": 140,
-    "MEMORY_OFFSET": 2800,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
-    "POWER_LIMIT": 140,
-    "MEMORY_OFFSET": 2800,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-89813676-36ab-4808-5b93-5ee2f09d86e0": {
-    "POWER_LIMIT": 140,
-    "MEMORY_OFFSET": 2800,
-    "GPU_CLOCK_LOCK": 1600,
-    "GPU_CLOCK_OFFSET": null,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-8c46e77a-bb2f-1a25-040f-137214d0f3b8": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-4b5f10b6-53e9-0e6e-e044-59ea633057e7": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-e211d2fe-54a0-4a9b-2b5f-4813f0fad5ef": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-7abf52a1-dd7e-85c8-e02c-f88ee1be2ad4": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-04e9f484-6476-3587-d028-ba90c92a7e81": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-68a47bb3-6ba0-450f-bb0e-bc82bff98c29": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-150c74e6-29bb-2ff7-3e26-9fcca9a1881d": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
-  },
-  "GPU-bc3ca773-a036-0400-4fef-11d086fb5f21": {
-    "POWER_LIMIT": 120,
-    "MEMORY_OFFSET": 2850,
-    "GPU_CLOCK_LOCK": null,
-    "GPU_CLOCK_OFFSET": -500,
-    "FAN_CONTROL": 0,
-    "FAN_SPEED": 50,
-    "lhr": 75
+  "rig02": {
+    "GPU-8c46e77a-bb2f-1a25-040f-137214d0f3b8": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-4b5f10b6-53e9-0e6e-e044-59ea633057e7": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-e211d2fe-54a0-4a9b-2b5f-4813f0fad5ef": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-7abf52a1-dd7e-85c8-e02c-f88ee1be2ad4": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-04e9f484-6476-3587-d028-ba90c92a7e81": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-68a47bb3-6ba0-450f-bb0e-bc82bff98c29": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-150c74e6-29bb-2ff7-3e26-9fcca9a1881d": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    },
+    "GPU-bc3ca773-a036-0400-4fef-11d086fb5f21": {
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 75
+    }
   }
 }
