@@ -1,5 +1,5 @@
 ﻿{
-  "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
+  "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": { test
     "POWER_LIMIT": 130,
     "MEMORY_OFFSET": 2600,
     "GPU_CLOCK_LOCK": 1600,
