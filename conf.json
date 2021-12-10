@@ -139,7 +139,7 @@
     },
     "GPU-89813676-36ab-4808-5b93-5ee2f09d86e0": {
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
+      "MEMORY_OFFSET": 2750,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
