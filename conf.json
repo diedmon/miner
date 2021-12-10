@@ -130,12 +130,12 @@
     },
     "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
       "POWER_LIMIT": 130,
-      "MEMORY_OFFSET": 2600,
+      "MEMORY_OFFSET": 2400,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.5
     },
     "GPU-89813676-36ab-4808-5b93-5ee2f09d86e0": {
       "POWER_LIMIT": 135,
