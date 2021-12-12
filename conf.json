@@ -84,8 +84,8 @@
   "rig02": {
     "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
       "ENABLE": 1,
-      "POWER_LIMIT": 130,
-      "MEMORY_OFFSET": 2600,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
