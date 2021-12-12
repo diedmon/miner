@@ -134,7 +134,7 @@
     },
     "GPU-773b890f-91a0-bb45-e150-7cf4976d030a": {
       "ENABLE": 1,
-      "POWER_LIMIT": 135,
+      "POWER_LIMIT": 140,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
@@ -144,7 +144,7 @@
     },
     "GPU-89813676-36ab-4808-5b93-5ee2f09d86e0": {
       "ENABLE": 1,
-      "POWER_LIMIT": 135,
+      "POWER_LIMIT": 140,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
