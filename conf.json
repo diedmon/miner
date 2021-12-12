@@ -124,7 +124,7 @@
     },
     "GPU-23bbc6fe-11c0-c58d-c591-330a34fe7269": {
       "ENABLE": 1,
-      "POWER_LIMIT": 145,
+      "POWER_LIMIT": 140,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
