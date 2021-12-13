@@ -8,7 +8,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-4b5f10b6-53e9-0e6e-e044-59ea633057e7": {
       "ENABLE": 1,
@@ -18,7 +18,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-e211d2fe-54a0-4a9b-2b5f-4813f0fad5ef": {
       "ENABLE": 1,
@@ -28,7 +28,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-7abf52a1-dd7e-85c8-e02c-f88ee1be2ad4": {
       "ENABLE": 1,
@@ -38,7 +38,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-04e9f484-6476-3587-d028-ba90c92a7e81": {
       "ENABLE": 1,
@@ -48,7 +48,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-68a47bb3-6ba0-450f-bb0e-bc82bff98c29": {
       "ENABLE": 1,
@@ -58,7 +58,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-150c74e6-29bb-2ff7-3e26-9fcca9a1881d": {
       "ENABLE": 1,
@@ -68,7 +68,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     },
     "GPU-bc3ca773-a036-0400-4fef-11d086fb5f21": {
       "ENABLE": 1,
@@ -78,7 +78,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 75
+      "lhr": 74.9
     }
   },
   "rig02": {
