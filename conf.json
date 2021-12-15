@@ -93,7 +93,7 @@
       "lhr": 74.9
     },
     "GPU-9fff745b-5f8a-fb71-0a0f-ab5b30537cac": {
-      "ENABLE": 0,
+      "ENABLE": 1,
       "POWER_LIMIT": 130,
       "MEMORY_OFFSET": 2400,
       "GPU_CLOCK_LOCK": 1300,
