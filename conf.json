@@ -1,4 +1,4 @@
-{
+﻿{
   "rig01": {
     "GPU-8c46e77a-bb2f-1a25-040f-137214d0f3b8": {
       "ENABLE": 1,
@@ -125,7 +125,7 @@
     "GPU-23bbc6fe-11c0-c58d-c591-330a34fe7269": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -155,7 +155,7 @@
     "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
