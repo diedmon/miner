@@ -95,7 +95,7 @@
     "GPU-9fff745b-5f8a-fb71-0a0f-ab5b30537cac": {
       "ENABLE": 1,
       "POWER_LIMIT": 130,
-      "MEMORY_OFFSET": 2000,
+      "MEMORY_OFFSET": 1900,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
