@@ -162,5 +162,27 @@
       "FAN_SPEED": 50,
       "lhr": 74.9
     }
+  },
+  "rig03": {
+    "GPU-2d569952-0bd7-31d1-be19-7d7fad070691": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 1015,
+      "GPU_CLOCK_LOCK": -500,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    },
+    "GPU-0ee61b06-36df-c0c3-1856-a7d2cf7785d7": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 130,
+      "MEMORY_OFFSET": 1015,
+      "GPU_CLOCK_LOCK": -500,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.5
+    }
   }
 }
