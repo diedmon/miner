@@ -172,7 +172,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 74.9
+      "lhr": 100
     },
     "GPU-0ee61b06-36df-c0c3-1856-a7d2cf7785d7": {
       "ENABLE": 1,
@@ -182,7 +182,7 @@
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 74.5
+      "lhr": 100
     }
   }
 }
