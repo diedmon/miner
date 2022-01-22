@@ -167,7 +167,7 @@
     "GPU-2d569952-0bd7-31d1-be19-7d7fad070691": {
       "ENABLE": 1,
       "POWER_LIMIT": 75,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2200,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -177,7 +177,7 @@
     "GPU-0ee61b06-36df-c0c3-1856-a7d2cf7785d7": {
       "ENABLE": 1,
       "POWER_LIMIT": 75,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2200,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
