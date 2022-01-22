@@ -74,7 +74,7 @@
       "ENABLE": 1,
       "POWER_LIMIT": 130,
       "MEMORY_OFFSET": 2400,
-      "GPU_CLOCK_LOCK": 1400,
+      "GPU_CLOCK_LOCK": 1300,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
