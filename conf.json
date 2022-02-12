@@ -186,6 +186,36 @@
     }
   },
   "myrig": {
+    "GPU-568822fb-0a5a-3735-2550-ff6bad76af53": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 110,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
+    "GPU-d3c2b4c7-615e-ef96-1fd5-62c03d55408a": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 110,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
+    "GPU-3a5c0e55-982d-71d3-7477-e31d060abe80": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 110,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
     "GPU-e5714afe-1ae7-ca45-4904-e593425b551c": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
