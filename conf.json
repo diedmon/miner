@@ -85,7 +85,7 @@
     "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
+      "MEMORY_OFFSET": 2700,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -95,7 +95,7 @@
     "GPU-e211d2fe-54a0-4a9b-2b5f-4813f0fad5ef": {
       "ENABLE": 1,
       "POWER_LIMIT": 120,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2750,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
@@ -105,7 +105,7 @@
     "GPU-6cb7bae6-8148-6cbd-7022-c8fd9c18d186": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
+      "MEMORY_OFFSET": 2700,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -115,7 +115,7 @@
     "GPU-080e673a-75bb-505a-6b31-0202503430e5": {
       "ENABLE": 1,
       "POWER_LIMIT": 120,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2750,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
@@ -125,7 +125,7 @@
     "GPU-23bbc6fe-11c0-c58d-c591-330a34fe7269": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
+      "MEMORY_OFFSET": 2700,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -135,7 +135,7 @@
     "GPU-150c74e6-29bb-2ff7-3e26-9fcca9a1881d": {
       "ENABLE": 1,
       "POWER_LIMIT": 120,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2750,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
@@ -145,7 +145,7 @@
     "GPU-04e9f484-6476-3587-d028-ba90c92a7e81": {
       "ENABLE": 1,
       "POWER_LIMIT": 120,
-      "MEMORY_OFFSET": 2850,
+      "MEMORY_OFFSET": 2750,
       "GPU_CLOCK_LOCK": null,
       "GPU_CLOCK_OFFSET": -500,
       "FAN_CONTROL": 0,
@@ -155,7 +155,7 @@
     "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
+      "MEMORY_OFFSET": 2700,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
