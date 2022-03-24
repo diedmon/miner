@@ -155,7 +155,7 @@
     "GPU-602223f9-d346-f5f7-eefa-52245c6b07a1": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2200,
       "GPU_CLOCK_LOCK": 1300,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
