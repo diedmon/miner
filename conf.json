@@ -85,8 +85,8 @@
     "GPU-5b46dd1c-c603-ffa5-d895-8c9abf271dbf": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": null,
-      "GPU_CLOCK_LOCK": null,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
