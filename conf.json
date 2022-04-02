@@ -259,8 +259,8 @@
     "GPU-e5714afe-1ae7-ca45-4904-e593425b551c": {
       "ENABLE": 1,
       "POWER_LIMIT": 220,
-      "MEMORY_OFFSET": 2000,
-      "GPU_CLOCK_LOCK": 1600,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1605,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
@@ -341,8 +341,8 @@
     "GPU-fc4a3b80-4cc8-010f-5a49-b9f1df570c75": {
       "ENABLE": 1,
       "POWER_LIMIT": 220,
-      "MEMORY_OFFSET": 2000,
-      "GPU_CLOCK_LOCK": 1600,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1605,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
