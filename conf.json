@@ -1,4 +1,4 @@
-{
+﻿{
   "rig01": {
     "GPU-8c46e77a-bb2f-1a25-040f-137214d0f3b8": {
       "ENABLE": 1,
@@ -259,7 +259,7 @@
     "GPU-e5714afe-1ae7-ca45-4904-e593425b551c": {
       "ENABLE": 1,
       "POWER_LIMIT": 220,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1605,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -341,7 +341,7 @@
     "GPU-fc4a3b80-4cc8-010f-5a49-b9f1df570c75": {
       "ENABLE": 1,
       "POWER_LIMIT": 220,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1605,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
@@ -352,7 +352,7 @@
   "myrig3": {
     "GPU-fc1a6992-40ef-5977-cd27-bbb46b6dc099": {
       "ENABLE": 1,
-      "POWER_LIMIT": 140,
+      "POWER_LIMIT": 220,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
@@ -362,7 +362,7 @@
     }, 
     "GPU-65d043ad-218e-057d-217d-a56be231294f": {
       "ENABLE": 1,
-      "POWER_LIMIT": 140,
+      "POWER_LIMIT": 220,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
@@ -372,7 +372,7 @@
     }, 
     "GPU-560296da-1bf2-75bd-f86d-b768e5005957": {
       "ENABLE": 1,
-      "POWER_LIMIT": 140,
+      "POWER_LIMIT": 220,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
@@ -382,7 +382,7 @@
     }, 
     "GPU-92a2ba52-e8a4-16b3-a77e-499b184470d3": {
       "ENABLE": 1,
-      "POWER_LIMIT": 140,
+      "POWER_LIMIT": 220,
       "MEMORY_OFFSET": 2800,
       "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
