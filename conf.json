@@ -390,5 +390,87 @@
       "FAN_SPEED": 50,
       "lhr": 74.9
     }
+  },
+  "mrig01": {
+    "GPU-a5714a41-09a0-b5ef-ac33-9ce7291f973b": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-ec30d9c3-92cc-e46a-b665-b070395cd6fe": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-dd85996d-907f-3637-1020-9bfd97c00d47": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-f881807d-44b5-c54d-e9bb-2044325e3c58": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    },
+    "GPU-7f0e1db2-f804-9178-169b-7d9e82bb7a04": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 120,
+      "MEMORY_OFFSET": 2850,
+      "GPU_CLOCK_LOCK": null,
+      "GPU_CLOCK_OFFSET": -500,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-53ed52f2-f59d-fd0b-84b8-2c0f9edab33c": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-03940e65-dee3-cbc9-6bd5-87d62ea58c6c": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }, 
+    "GPU-c43f94b6-83d8-1d27-4442-abb5e38d283e": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 140,
+      "MEMORY_OFFSET": 2800,
+      "GPU_CLOCK_LOCK": 1600,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 74.9
+    }
   }
 }
