@@ -455,8 +455,8 @@
     "GPU-03940e65-dee3-cbc9-6bd5-87d62ea58c6c": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 1000,
-      "GPU_CLOCK_LOCK": 1000,
+      "MEMORY_OFFSET": 500,
+      "GPU_CLOCK_LOCK": 500,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
