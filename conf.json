@@ -452,15 +452,15 @@
       "FAN_SPEED": 50,
       "lhr": 74.9
     }, 
-    "GPU-03940e65-dee3-cbc9-6bd5-87d62ea58c6c": {
+    "GPU-939c846b-f281-1caa-05ad-05b589080f8e": {
       "ENABLE": 1,
-      "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 100,
-      "GPU_CLOCK_LOCK": 100,
+      "POWER_LIMIT": 75,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1100,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
-      "lhr": 74.9
+      "lhr": 0
     }, 
     "GPU-c43f94b6-83d8-1d27-4442-abb5e38d283e": {
       "ENABLE": 1,
