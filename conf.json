@@ -389,6 +389,46 @@
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
       "lhr": 74.9
+    },
+    "GPU-dc71debe-e8cb-12bd-d9f1-842801c1fc15": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 75,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1100,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
+    "GPU-5f052e68-f524-2c9d-f4d3-dc496faa9d43": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 75,
+      "MEMORY_OFFSET": 2400,
+      "GPU_CLOCK_LOCK": 1100,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
+    "GPU-2437b66e-015a-a15e-ccbd-3cb5c15b66b8": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 80,
+      "MEMORY_OFFSET": 3800,
+      "GPU_CLOCK_LOCK": 1050,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
+    },
+    "GPU-c69aba0c-e5b4-ac5f-de8b-300f67df4bfd": {
+      "ENABLE": 1,
+      "POWER_LIMIT": 80,
+      "MEMORY_OFFSET": 3800,
+      "GPU_CLOCK_LOCK": 1050,
+      "GPU_CLOCK_OFFSET": null,
+      "FAN_CONTROL": 0,
+      "FAN_SPEED": 50,
+      "lhr": 0
     }
   },
   "mrig01": {
