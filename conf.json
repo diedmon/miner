@@ -1,4 +1,4 @@
-﻿{
+{
   "rig01": {
     "GPU-8c46e77a-bb2f-1a25-040f-137214d0f3b8": {
       "ENABLE": 1,
@@ -291,7 +291,7 @@
     "GPU-47ec2bfb-8f2e-5791-da55-b17d8ba85098": {
       "ENABLE": 1,
       "POWER_LIMIT": 75,
-      "MEMORY_OFFSET": 2400,
+      "MEMORY_OFFSET": 2200,
       "GPU_CLOCK_LOCK": 1100,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
