@@ -341,8 +341,8 @@
     "GPU-fc4a3b80-4cc8-010f-5a49-b9f1df570c75": {
       "ENABLE": 1,
       "POWER_LIMIT": 140,
-      "MEMORY_OFFSET": 2800,
-      "GPU_CLOCK_LOCK": 1605,
+      "MEMORY_OFFSET": 2000,
+      "GPU_CLOCK_LOCK": 1600,
       "GPU_CLOCK_OFFSET": null,
       "FAN_CONTROL": 0,
       "FAN_SPEED": 50,
